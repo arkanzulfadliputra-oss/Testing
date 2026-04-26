@@ -38,11 +38,6 @@ local CustomShop = {
 }
 
 local Source = "https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Custom%20Achievements/Source.lua"
---[[
-[[Checked Tool]]
-[[Checked Tool]]
-[[is this a tool]]
-]]--
 
 -----------[[Checked Tool]]--------------[[Checked Tool]]--------------
 
